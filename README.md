@@ -15,3 +15,9 @@ to save generation time
 | 4   | Create Django Project with React               |
 | 5   | Create Django Project with angular             |
 | 6   | Create Django Project with Applications        |
+
+# Modules
+
+| ID  | Module name     | Description                                        |
+| --- | --------------- | -------------------------------------------------- |
+| 1   | Table_Creator_2 | Used to generate tables compatable with python 2.x |
