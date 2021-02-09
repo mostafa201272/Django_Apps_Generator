@@ -21,3 +21,4 @@ to save generation time
 | ID  | Module name     | Description                                        |
 | --- | --------------- | -------------------------------------------------- |
 | 1   | Table_Creator_2 | Used to generate tables compatable with python 2.x |
+| 2   | Table_Creator_3 | Used to generate tables compatable with python 3.x |
