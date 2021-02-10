@@ -15,6 +15,9 @@ to save generation time
 | 4   | Create Django Project with React               |
 | 5   | Create Django Project with angular             |
 | 6   | Create Django Project with Applications        |
+| 7   | Create Django App                              |
+| 8   | Create Django prokect with vagrent             |
+| 9   | create Djangor Project with docker             |
 
 # Modules
 
