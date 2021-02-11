@@ -18,6 +18,7 @@ to save generation time
 | 7   | Create Django App                              |
 | 8   | Create Django prokect with vagrent             |
 | 9   | create Djangor Project with docker             |
+| 10  | Task                                           |
 
 # Modules
 
