@@ -20,6 +20,7 @@ to save generation time
 | 9   | create Djangor Project with docker             |
 | 10  | Task                                           |
 | 11  | Task                                           |
+| 12  | Task                                           |
 
 # Modules
 
